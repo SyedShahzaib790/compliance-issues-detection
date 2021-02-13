@@ -1,4 +1,5 @@
-# compliance-issues-detection
+# Improve Lexicon-based Scenario that detects Mentions of Compliance Issues
+
 
 ## Background
 
@@ -22,3 +23,4 @@ which means that all communication with word compliance will be flagged. There a
 
 A subset of publicly available Enron dataset. This dataset aims to emulate real email data that we receive on a day-to-day basis and that serves as the target for scenarios.
 
+### Presentation: https://docs.google.com/presentation/d/1_FX_0CwO5iVU0L81E4WgIFFZOVC29xvuisSVnloAAwE/edit?usp=sharing
