@@ -9,8 +9,11 @@ Compliance teams of financial institutions are required by law to monitor employ
 - Let's speak later - compliance problems
 - Compliance will have me pinned to the table
 We may consider the following approaches for scoring the content as potentially containing mentions of compliance issues:
+
 ● Pre-defined lexical patterns in an employee’s communications;
+
 ● Pre-defined lexical patterns in an employee’s communications along with detected NLP features (e.g. negative sentiment or named entities);
+
 ● An end-to-end machine learning model that is trained on a large set of real or/and synthesized content to automatically detect discussions of compliance in a negative or potentially problematic way. The last option sounds attractive as it can be improved over time with user feedback, may potentially learn more complex patterns, and be adapted for a particular customer’s data without the manual intervention of an expert linguist.
 
 ## Task
@@ -23,4 +26,4 @@ which means that all communication with word compliance will be flagged. There a
 
 A subset of publicly available Enron dataset. This dataset aims to emulate real email data that we receive on a day-to-day basis and that serves as the target for scenarios.
 
-### Presentation: https://docs.google.com/presentation/d/1_FX_0CwO5iVU0L81E4WgIFFZOVC29xvuisSVnloAAwE/edit?usp=sharing
+#### Presentation: https://docs.google.com/presentation/d/1_FX_0CwO5iVU0L81E4WgIFFZOVC29xvuisSVnloAAwE/edit?usp=sharing
